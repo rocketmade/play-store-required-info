@@ -19,7 +19,7 @@ Email address
 
 Phone number
 
-privacy policy URL
+Privacy policy URL
 
 
 
